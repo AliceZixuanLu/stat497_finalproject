@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+jupyter
+IProgress
+libpysal
+esda
+pygam
+shap
+scipy
